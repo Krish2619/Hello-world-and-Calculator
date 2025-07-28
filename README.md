@@ -2,8 +2,8 @@ Aim:
 To create a simple C++ program that takes two floating-point numbers as input and performs basic arithmetic operations: addition, subtraction, multiplication, and division.
 
 Apparatus:
--GNU g++ compiler or any C++ compiler
--Text editor or integrated development environment (IDE) like Visual Studio Code, Code::Blocks, or Dev-C++
+1. GNU g++ compiler or any C++ compiler
+2. Text editor or integrated development environment (IDE) like Visual Studio Code, Code::Blocks, or Dev-C++
 
 Program Explanation:
 The program begins by including the <iostream> library, which allows input and output operations using cin and cout.
